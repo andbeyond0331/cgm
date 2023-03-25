@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: mijungpark
+Build-Jdk: Oracle OpenJDK version 11.0.16
+Implementation-Title: cgm
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cgm
+Main-Class: ${start-class}
+
